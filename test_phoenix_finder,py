@@ -1,0 +1,4 @@
+import streamlit as st
+st.set_page_config(page_title="Phoenix TT Finder", layout="wide")
+from tools.phoenix_tt_finder import render
+render()
