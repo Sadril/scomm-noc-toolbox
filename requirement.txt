@@ -1,0 +1,10 @@
+pandas
+openpyxl
+rapidfuzz
+pytesseract
+Pillow
+opencv-python
+streamlit
+requests
+beautifulsoup4
+lxml
